@@ -6,7 +6,9 @@ The analysis involves working with a dataset containing information about studen
 **Key steps in the analysis include:**
 
 **1. Descriptive Statistics:** Calculating and interpreting measures such as mean, median, standard deviation, skewness, and kurtosis to understand engagement patterns among paid and free-plan students.
+
 **2. Confidence Intervals:** Constructing confidence intervals to estimate the true average minutes watched by paid and free-plan students, and comparing their engagement levels.
+
 **3. Hypothesis Testing:** Performing hypothesis tests to determine if the engagement levels (measured by minutes watched) of paid and free-plan students increased from Q4 2021 to Q4 2022, and exploring potential differences between US and Indian students.
 
 The project leverages Excel for data analysis and employs statistical techniques like t-tests and F-tests to draw conclusions and provide recommendations based on the findings.
